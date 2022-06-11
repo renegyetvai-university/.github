@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone 👋
 This organization is dedicated to the contents of my studies in technical computer science. I collect here all project dependencies and repositories that I needed to work on my assignments to archive them for later review.
 <!--
 
